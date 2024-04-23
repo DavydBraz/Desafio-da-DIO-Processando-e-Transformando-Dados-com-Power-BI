@@ -46,8 +46,8 @@ Atribuir pode ser útil em certos contextos, porém, a fusão (MERGE) oferece um
 ## 15. Agrupe os dados a fim de saber quantos colaboradores existem por gerente
 Foi agrupado os colaboradores por gerente em uma outra tabela: Num_Employee_Manager
 
-## 16. Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela <h2>
+## 16. Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
 OK
 
-## OBS <h2>
+## OBS
 Foi verificado se tinha algum relacionamento faltando, buscando automaticamente, e atribuindo os mesmos. Como não foi solicitado a parte de Dashboard, foi anexado ao documento em questão apenas um visual mais simples, já que faltou o dicionario de dados e não foi possivel a compreensão completa de que era cada dado.
